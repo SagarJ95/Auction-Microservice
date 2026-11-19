@@ -1,0 +1,28 @@
+
+{
+  "development": {
+    "username": "postgres",
+    "password": "Sagar@1995",
+    "database": "auction_auth",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres",
+    "logging": true
+  },
+  "test": {
+    "username": "postgres",
+    "password": "Sagar@1995",
+    "database": "auction_auth",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "Sagar@1995",
+    "database": "auction_auth",
+    "host": "localhost",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
